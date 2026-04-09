@@ -1,5 +1,5 @@
 aiogram
-openai
+google-generativeai
 pillow
 geopy
 timezonefinder
