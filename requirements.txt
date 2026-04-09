@@ -1,0 +1,6 @@
+aiogram
+openai
+pillow
+geopy
+timezonefinder
+pytz
